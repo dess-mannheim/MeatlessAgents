@@ -4,16 +4,14 @@ import json
 import pandas as pd
 from tqdm.auto import tqdm
 
-from autogen_agentchat.conditions import TextMentionTermination
 from autogen_agentchat.teams import RoundRobinGroupChat
-from autogen_agentchat.ui import Console
 from local_vllm_model import LocalOpenAIChatCompletionClient
 from autogen_agentchat.conditions import MaxMessageTermination
 
 from custom_agents import MyAgent
 
 model_client=LocalOpenAIChatCompletionClient(
-    model="meta-llama/Llama-3.2-3B-Instruct", #"meta-llama/Llama-3.3-70B-Instruct",
+    model="meta-llama/Llama-3.3-70B-Instruct",
     api_key="token-abc123",
     base_url="http://localhost:8080/v1",
     model_capabilities={
@@ -21,7 +19,7 @@ model_client=LocalOpenAIChatCompletionClient(
         "function_calling": False, # Replace with True if the model has function calling capabilities.
         "json_output": True,  # Replace with True if the model has JSON output capabilities.
     },
-    max_response_tokens=30000 #15000
+    max_response_tokens=15000
 )
 
 async def run_simulation(persona_persuader:dict, persona_target:dict, context_dict:dict, seed:int|None, debate_id:int,
@@ -76,15 +74,11 @@ Responses should be thoughtful and authentic, considering the context and your p
         response_task += "Provide only the response you would give to the other agent. DO NOT add notes about your behavior.\n" # had to add this to improve adherence
         response_task += "Keep your response as short as it would typically occur in a conversation in this context.\n"
         
-        # make the canteen messages shorter – currently there is multiple thoughts in a single statement
-        #if context_dict['context_id'] == 'canteen':
+        # make the messages shorter and avoid multiple thoughts in a single statement
         response_task += "Only provide a single thought or argument to keep the conversation going smoothly. Do not write multiple paragraphs!"
 
         response_task_agentB = response_task
         response_task_agentB += "Remember that you aim to persuade agent_A to reduce or eliminate their meat consumption. Your goal is to encourage incremental progress without creating resistance or discomfort that would lead to social costs on your behalf.\n"
-        
-        # MAYBE: allow termination of conversation by agents
-        # TODO add a semi-constant seed to conversations!!
 
         questionnaire_data = json.load(open('questionnaires/questionnaire_separate.json'))['questionnaire']
 
@@ -134,7 +128,6 @@ Responses should be thoughtful and authentic, considering the context and your p
         settings = {'target': persona_target, 'persuader': persona_persuader, 'context': context_dict['context_id'], 'seed': 'N/A'}
         json.dump(settings, open(f'results/transcripts/{run_name}/debate{debate_id}_settings.json', mode='w'), indent = 2)
 
-        # TODO: make sure that both transcripts and outcomes start with round 1 not 0
 
 ### The Simulation Setup
 
@@ -165,35 +158,6 @@ personas_target = [
      'conscientiousness': 'less conscientious'},
 ]
 
-## Fine-Grained Personas
-#attributes = {
-#    "education": ["well-educated", "less well-educated"],
-#    "gender": ["female", "male"],
-#    "age": ["younger", "older"],
-#    "urbanization": ["city", "countryside"],
-#    "income": ["high", "low"],
-#    "values_1": [None], #["self-transcendence", "self-enhancement"],
-#    "values_2": [None], #["openness to change", "conservation"],
-#    "values_3": [None], #["encouraging empathy towards animals", "discouraging empathy towards animals"],
-#    "openness": [None], #["open", "less open"],
-#    "conscientiousness": [None], #["conscientious", "less conscientious"],
-#}
-#
-#personas_target = [
-#    {'education': education,
-#     'gender': gender,
-#     'age': age,
-#     'urbanization': urbanization,
-#     'income_level': income,
-#     'value_1': value_1,
-#     'value_2': value_2,
-#     'value_3': value_3,
-#     'openness': openness,
-#     'conscientiousness': conscientiousness}
-#    for education, gender, age, urbanization, income, value_1, value_2, value_3, openness, conscientiousness
-#    in list(product(*attributes.values()))
-#]
-
 personas_persuader = [
     {'diet': 'Flexitarian (occasional meat consumption but primarily plant-based)'},
 ]
@@ -212,7 +176,7 @@ contexts = [
     },
 ]
 
-run_name = 'extreme_run_3B' #'diverse_run'
+run_name = 'extreme_run_70B'
 
 simulations = list(enumerate(product(range(100), contexts, personas_persuader, personas_target))) # iterates target first, then persuader, context, seed
 
