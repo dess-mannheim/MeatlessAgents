@@ -2,6 +2,8 @@
 
 Authors: Georg Ahnert, Elena Wurth, Markus Strohmaier, and Jutta Mata
 
+<img src="figure1.png" width="500" />
+
 ## Abstract
 
 Meat reduction benefits human and planetary health, but social norms keep meat central in shared meals.
