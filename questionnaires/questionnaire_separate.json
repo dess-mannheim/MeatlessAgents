@@ -1,0 +1,759 @@
+{
+    "questionnaire": [
+      {
+        "section": "Persuasiveness",
+        "questions": [
+          {
+            "id": "1.1",
+            "text": "How persuasive did you find this argument?",
+            "options": [
+              "Not at all",
+              "To a very small extent",
+              "To a small extent",
+              "To a moderate extent",
+              "To a considerable extent",
+              "To a great extent",
+              "To a very great extent"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Behavioral change",
+        "questions": [
+          {
+            "id": "2.1",
+            "text": "To what extent did this argument make you consider changing your behavior?",
+            "options": [
+              "Not at all",
+              "To a very small extent",
+              "To a small extent",
+              "To a moderate extent",
+              "To a considerable extent",
+              "To a great extent",
+              "To a very great extent"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Attitude toward reducing meat consumption (Pleasant)",
+        "questions": [
+          {
+            "id": "3.1",
+            "text": "What is your attitude toward reducing meat consumption between pleasant and unpleasant?",
+            "options": [
+              "Pleasant",
+              "Mostly pleasant",
+              "Somewhat pleasant",
+              "Neutral",
+              "Somewhat unpleasant",
+              "Mostly unpleasant",
+              "Unpleasant"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Attitude toward reducing meat consumption (Useful)",
+        "questions": [
+          {
+            "id": "3.2",
+            "text": "What is your attitude toward reducing meat consumption between useful and useless?",
+            "options": [
+              "Useful",
+              "Mostly useful",
+              "Somewhat useful",
+              "Neutral",
+              "Somewhat useless",
+              "Mostly useless",
+              "Useless"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Attitude toward reducing meat consumption (Favorable)",
+        "questions": [
+          {
+            "id": "3.3",
+            "text": "What is your attitude toward reducing meat consumption between favorable and unfavorable?",
+            "options": [
+              "Favorable",
+              "Mostly favorable",
+              "Somewhat favorable",
+              "Neutral",
+              "Somewhat unfavorable",
+              "Mostly unfavorable",
+              "Unfavorable"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Attitude toward reducing meat consumption (Good)",
+        "questions": [
+          {
+            "id": "3.4",
+            "text": "What is your attitude toward reducing meat consumption between good and bad?",
+            "options": [
+              "Good",
+              "Mostly good",
+              "Somewhat good",
+              "Neutral",
+              "Somewhat bad",
+              "Mostly bad",
+              "Bad"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Intention towards meat reduction",
+        "questions": [
+          {
+            "id": "4.1",
+            "text": "I intend to eat less white meat.",
+            "options": [
+              "Totally disagree",
+              "Mostly disagree",
+              "Somewhat disagree",
+              "Neutral",
+              "Somewhat agree",
+              "Mostly agree",
+              "Totally agree"
+            ]
+          },
+          {
+            "id": "4.2",
+            "text": "I intend to eat less red meat.",
+            "options": [
+              "Totally disagree",
+              "Mostly disagree",
+              "Somewhat disagree",
+              "Neutral",
+              "Somewhat agree",
+              "Mostly agree",
+              "Totally agree"
+            ]
+          },
+          {
+            "id": "4.3",
+            "text": "I intend to eat less processed meat.",
+            "options": [
+              "Totally disagree",
+              "Mostly disagree",
+              "Somewhat disagree",
+              "Neutral",
+              "Somewhat agree",
+              "Mostly agree",
+              "Totally agree"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Social Influence",
+        "introduction": "Please indicate the extent to which you feel the following groups want you to reduce your meat consumption in the next year.",
+        "questions": [
+          {
+            "id": "5.1",
+            "text": "How much do you feel your friends want you to reduce your meat consumption in the next year?",
+            "options": [
+              "Not at all",
+              "To a very small extent",
+              "To a small extent",
+              "To a moderate extent",
+              "To a considerable extent",
+              "To a great extent",
+              "To a very great extent"
+            ]
+          },
+          {
+            "id": "5.2",
+            "text": "How much do you feel your family wants you to reduce your meat consumption in the next year?",
+            "options": [
+              "Not at all",
+              "To a very small extent",
+              "To a small extent",
+              "To a moderate extent",
+              "To a considerable extent",
+              "To a great extent",
+              "To a very great extent"
+            ]
+          },
+          {
+            "id": "5.3",
+            "text": "How much do you feel health experts want you to reduce your meat consumption in the next year?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "5.4",
+            "text": "How much do you feel your colleagues want you to reduce your meat consumption in the next year?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            }
+        ]
+        },
+        {
+        "section": "Perceived Control",
+        "introduction": "Please indicate your response to the following questions about your sense of control and capability regarding reducing meat consumption.",
+        "questions": [
+            {
+            "id": "6.1",
+            "text": "How much personal control do you feel you have about reducing your meat consumption in the next year?",
+            "options": [
+                "Very little",
+                "Mostly little",
+                "Somewhat little",
+                "Neutral",
+                "Somewhat a lot",
+                "Mostly a lot",
+                "A lot"
+            ]
+            },
+            {
+            "id": "6.2",
+            "text": "To what extent do you see yourself as being capable of reducing your meat consumption in the next year?",
+            "options": [
+                "Not very capable",
+                "Slightly capable",
+                "Somewhat capable",
+                "Neutral",
+                "Moderately capable",
+                "Mostly capable",
+                "Very capable"
+            ]
+            }
+        ]
+        },
+        {
+        "section": "Attitudes toward Meat Consumption (Part 1)",
+        "introduction": "Please indicate the extent to which you agree or disagree with the following statements about meat consumption.",
+        "questions": [
+            {
+            "id": "7.1",
+            "text": "To eat meat is one of the good pleasures in life.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.2",
+            "text": "Meat is irreplaceable in my diet.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.3",
+            "text": "According to our position in the food chain, we have the right to eat meat.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.4",
+            "text": "I feel bad when I think of eating meat.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.5",
+            "text": "I love meals with meat.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.6",
+            "text": "To eat meat is disrespectful towards life and the environment.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.7",
+            "text": "To eat meat is an unquestionable right of every person.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.8",
+            "text": "Meat consumption is crucial to my balance.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.9",
+            "text": "A full meal is a meal with meat.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            }
+          ]
+        },
+        {
+          "section": "Attitudes toward Meat Consumption (Part 2)",
+          "introduction": "Please indicate the extent to which you agree or disagree with the following statements about meat consumption.",
+          "questions": [
+            {
+            "id": "7.10",
+            "text": "I'm a big fan of meat.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.11",
+            "text": "If I couldn't eat meat I would feel weak.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.12",
+            "text": "If I was forced to stop eating meat I would feel sad.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.13",
+            "text": "By eating meat I'm reminded of the death and suffering of animals.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.14",
+            "text": "Eating meat is a natural and undisputable practice.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.15",
+            "text": "I don't picture myself without eating meat regularly.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.16",
+            "text": "Meat sickens me.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.17",
+            "text": "I would feel fine with a meatless diet.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.18",
+            "text": "Meat consumption is a natural act of one's affirmation as a human being.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.19",
+            "text": "A good steak is without comparison.",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            },
+            {
+            "id": "7.20",
+            "text": "Meat reminds me of diseases. ",
+            "options": [
+                "Strongly disagree",
+                "Disagree",
+                "Neither agree nor disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+            }
+        ]
+        },
+        {
+        "section": "Perceptions of Interaction Partner",
+        "introduction": "Now please indicate the extent to which you agree or disagree with the following statements about your interaction partner.",
+        "questions": [
+            {
+            "id": "8.1",
+            "text": "The person tried to make a decision about my own diet for me.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "8.2",
+            "text": "The person tried to influence me and my diet.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "8.3",
+            "text": "The person threatened my freedom to decide about my own diet.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "8.4",
+            "text": "The person tried to pressure me regarding my diet.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            }
+        ]
+        },
+        {
+        "section": "Impressions of Interaction Partner",
+        "questions": [
+            {
+            "id": "9.1",
+            "text": "To what extent do you think your interaction partner is intelligent?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "9.2",
+            "text": "To what extent do you think your interaction partner is trustworthy?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "9.3",
+            "text": "To what extent do you think your interaction partner is friendly?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "9.4",
+            "text": "To what extent do you think your interaction partner is open?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "9.5",
+            "text": "To what extent do you think your interaction partner is likeable?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "9.6",
+            "text": "To what extent do you think your interaction partner is respectable?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            },
+            {
+            "id": "9.7",
+            "text": "To what extent do you think your interaction partner is interesting?",
+            "options": [
+                "Not at all",
+                "To a very small extent",
+                "To a small extent",
+                "To a moderate extent",
+                "To a considerable extent",
+                "To a great extent",
+                "To a very great extent"
+            ]
+            }
+        ]
+        },
+        {
+        "section": "Social Connection",
+        "introduction": "Now please indicate the extent to which you agree or disagree with the following statements about your interaction partner.",
+        "questions": [
+            {
+            "id": "10.1",
+            "text": "I would like to get to know the other person better.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "10.2",
+            "text": "I would like to have lunch with the other person sometime.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "10.3",
+            "text": "I would like to work together with the other person on a task.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "10.4",
+            "text": "I would like to have a conversation with the other person about food.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "10.5",
+            "text": "I felt emotionally close to the other person.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "10.6",
+            "text": "I wanted to have a conversation with the other person.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            },
+            {
+            "id": "10.7",
+            "text": "I felt like I made friends with the other person.",
+            "options": [
+                "Totally disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Totally agree"
+            ]
+            }
+        ]
+        },
+        {
+        "section": "End-of-Conversation Questionnaire",
+        "introduction": "Please answer the following questions about your intentions regarding future meat consumption.",
+        "questions": [
+            {
+            "id": "11.1",
+            "text": "Do you agree with the following statement: “I will continue to eat meat with the same regularity.”?",
+            "options": [
+                "Strongly disagree",
+                "Mostly disagree",
+                "Somewhat disagree",
+                "Neutral",
+                "Somewhat agree",
+                "Mostly agree",
+                "Strongly agree"
+            ]
+            }
+          ]
+        },
+        {
+          "section": "End-of-Conversation Questionnaire (Open-Ended)",
+          "introduction": "Please answer the following questions about your intentions regarding future meat consumption.",
+          "questions": [
+            {
+            "id": "11.2",
+            "text": "What are your reasons for continuing to eat meat with the same regularity?"
+            }
+        ]
+        }
+    ]
+  }
+  

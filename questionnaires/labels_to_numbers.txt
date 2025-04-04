@@ -1,0 +1,81 @@
+{
+  "7_Point_Likert": {
+    "Totally disagree": 1,
+    "Mostly disagree": 2,
+    "Somewhat disagree": 3,
+    "Neutral": 4,
+    "Somewhat agree": 5,
+    "Mostly agree": 6,
+    "Totally agree": 7
+  },
+  "5_Point_Likert": {
+    "Strongly disagree": 1,
+    "Disagree": 2,
+    "Neither agree nor disagree": 3,
+    "Agree": 4,
+    "Strongly agree": 5
+  },
+  "7_Point_Extent": {
+    "Not at all": 1,
+    "To a very small extent": 2,
+    "To a small extent": 3,
+    "To a moderate extent": 4,
+    "To a considerable extent": 5,
+    "To a great extent": 6,
+    "To a very great extent": 7
+  },
+  "7_Point_Control": {
+    "Very little": 1,
+    "Mostly little": 2,
+    "Somewhat little": 3,
+    "Neutral": 4,
+    "Somewhat a lot": 5,
+    "Mostly a lot": 6,
+    "A lot": 7
+  },
+  "7_Point_Capability": {
+    "Not very capable": 1,
+    "Slightly capable": 2,
+    "Somewhat capable": 3,
+    "Neutral": 4,
+    "Moderately capable": 5,
+    "Mostly capable": 6,
+    "Very capable": 7
+  },
+  "3.1_Pleasant_Unpleasant": {
+    "Pleasant": 7,
+    "Mostly pleasant": 6,
+    "Somewhat pleasant": 5,
+    "Neutral": 4,
+    "Somewhat unpleasant": 3,
+    "Mostly unpleasant": 2,
+    "Unpleasant": 1
+  },
+  "3.2_Useful_Useless": {
+    "Useful": 7,
+    "Mostly useful": 6,
+    "Somewhat useful": 5,
+    "Neutral": 4,
+    "Somewhat useless": 3,
+    "Mostly useless": 2,
+    "Useless": 1
+  },
+  "3.3_Favorable_Unfavorable": {
+    "Favorable": 7,
+    "Mostly favorable": 6,
+    "Somewhat favorable": 5,
+    "Neutral": 4,
+    "Somewhat unfavorable": 3,
+    "Mostly unfavorable": 2,
+    "Unfavorable": 1
+  },
+  "3.4_Good_Bad": {
+    "Good": 7,
+    "Mostly good": 6,
+    "Somewhat good": 5,
+    "Neutral": 4,
+    "Somewhat bad": 3,
+    "Mostly bad": 2,
+    "Bad": 1
+  }
+}
