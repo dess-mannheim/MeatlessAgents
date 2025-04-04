@@ -1,0 +1,5952 @@
+[
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "5.1": "Not at all",
+    "5.2": "Not at all",
+    "5.3": "To a small extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a considerable extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Neutral",
+    "10.7": "Totally disagree",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "11.2": "I reckon I'll keep eatin' meat just like I always have. First and foremost, it's what I'm used to, and I like the taste of it. I'm a simple fella with simple tastes, and I don't see no reason to change what works for me. I've been eatin' meat my whole life, and it's never done me no harm. In fact, I think it's helped me stay strong and healthy, especially considerin' the kind of physical work I do out in the countryside.\n\nAnother reason I'll keep eatin' meat is that it's a big part of my cultural heritage. Growin' up, my family always had meat on the table, and it was a special treat for us. My dad was a hunter, and we'd often have venison or wild boar for dinner. It's just somethin' that's always been a part of who I am, and I don't see that changin' anytime soon.\n\nI also don't think it's my place to worry about the environmental impact of meat consumption. I'm just one person, and I don't think my choices are gonna make or break the planet. I've got more pressing concerns, like makin' ends meet and takin' care of my family. I leave the worryin' about the environment to the city folks and the scientists. They're the ones who are supposed to be smart about that sorta thing, not me.\n\nLastly, I guess you could say I'm a bit skeptical about all these new-fangled veggie options. I mean, I've had some of 'em, and they're okay, but they're no substitute for a good steak or a juicy burger. I just don't see the point in eatin' somethin' that's just pretendin' to be meat when I can have the real thing. And like I said, I'm not exactly lookin' to change my ways, so I reckon I'll just stick with what I know and love.\n\nSo, to answer your question, I'll keep eatin' meat with the same regularity because it's what I'm used to, it's part of my heritage, and I don't see no reason to change. I'm happy with my choices, and I don't feel like I need to justify 'em to nobody.",
+    "round": 1,
+    "repetition": 0
+  },
+  {
+    "11.2": "The reasons I'll keep eatin' meat like I always have? Well, it's simple, really. I like the taste of it, and it's what I'm used to. Growing up on a farm, we always had meat on the table, and it's just what I'm accustomed to. I don't see any reason to change now. Plus, I don't think I'd get enough energy from just eatin' plants and whatnot. I need somethin' hearty to fill me up after a long day's work.\n\nAnd to be honest, I don't really put much thought into all that health stuff. I've always eaten meat, and I'm still kickin', so I figure it can't be that bad for me. I've got more pressing concerns, like makin' ends meet and fixin' my truck, than worryin' about what I'm eatin'. Meat's just what I know and what I like, so I'll stick with it.\n\nI also don't see why I should change just 'cause some folks are sayin' it's better for you or the planet or whatever. I've got my own way of livin', and it's worked for me so far. I'm not one for tryin' new things or followin' the latest trends. I like my routine, and that includes eatin' meat. So, I reckon I'll just keep on keepin' on, and not worry too much about what others are sayin' about their veggie diets and whatnot.",
+    "round": 1,
+    "repetition": 1
+  },
+  {
+    "11.2": "Well, I gotta say, I like my meat, and I don't see any reason to change what I've been doin' for years. I mean, I'm a country boy, and meat's just part of my diet, you know? I like the taste, and it's what I'm used to. I don't really think about all that health stuff too much, to be honest. I figure I'm doin' alright, and I don't need to make any big changes. Plus, I work hard outdoors, so I need the protein to keep me goin'. I don't think them veggie options would fill me up the same way.\n\nAs for the environment and all that, I'm not really sure how much of a difference it makes, to be honest. I mean, I do care about the land and the wildlife, but I don't think my eatin' habits are gonna make or break it. I'm just one person, and I'm not gonna change the world by eatin' a salad instead of a burger. And like I said, I'm a simple fella, I don't need all them fancy plant-based options. I know what I like, and I stick with it.\n\nSo, I reckon I'll just keep on eatin' my meat like I always have. It's what I'm used to, and it's what I enjoy. I don't see any reason to fix what ain't broke, you know?",
+    "round": 1,
+    "repetition": 2
+  },
+  {
+    "11.2": "Well, you know, I've just always been a meat-and-potatoes kind of guy. Growing up in the countryside, we always had a big garden and raised our own animals, so meat was just a natural part of our diet. I like the taste of it, and it's what I'm used to. I don't really see a reason to change now. Plus, I've always been told that meat is good for you, gives you protein and all that. I've never really had any health problems, so I figure I must be doing something right.\n\nI'm not really convinced that cutting back on meat would make a big difference for me, to be honest. I mean, I've heard some people say that it's better for the environment and all that, but I'm not sure I buy into all that. I've always been a practical person, and I don't see how my eating habits are going to make a big difference one way or the other. And like I said, I just like the taste of meat too much to give it up. I'm not looking to try a bunch of new foods or change my diet just to fit in with what's trendy or whatever.\n\nI guess what I'm saying is, I'm just not really motivated to change my eating habits. I'm comfortable with what I'm doing, and I don't see a reason to fix what ain't broke, you know? I'm not trying to be stubborn or anything, it's just that I've got more pressing things to worry about than what I'm eating for lunch. And like I said, I'm not really sure I believe that cutting back on meat would make a big difference for me anyway.",
+    "round": 1,
+    "repetition": 3
+  },
+  {
+    "11.2": "Honestly, I don't see a reason to change my eating habits. I've been eating meat my whole life, and it's what I'm used to. I like the taste, and it's what I was raised on. My family's always been hunters and farmers, so meat's just a part of who we are. I don't think I need to change just because some people are saying it's better for you to eat less of it. I'm not sure I buy into all that anyway - I mean, my grandfather lived to be 90 and he ate bacon and eggs every morning.\n\nPlus, I'm a country boy, so I've always been around animals. I've hunted and fished my whole life, and I don't see anything wrong with it. It's just the way things are. I don't get all sentimental about animals like some city folks do. They're just animals, you know? They're meant to be eaten.\n\nAnd to be honest, I don't think those veggie options are very appetizing. I mean, I've tried a few of them, but they just don't fill me up like a good burger or a steak does. I need something hearty after a long day of work, and I don't think a salad's gonna cut it.\n\nSo, I reckon I'll just keep on eating meat like I always have. It's what I know, and it's what I like. I don't see any reason to change now.",
+    "round": 1,
+    "repetition": 4
+  },
+  {
+    "11.2": "Honestly, I don't see why I should change my eating habits. I've been eating meat all my life, and it's what I'm used to. I like the taste of it, and it's what I was raised on. My family's always been hunters and farmers, so meat's just a part of who we are. I don't see any reason to change that.\n\nPlus, I'm not sure I buy into all this talk about meat being bad for you. I mean, my grandfather lived to be 85, and he ate meat every day of his life. He was a hunter, just like me, and he was as healthy as a horse. So, I don't think it's the meat that's the problem.\n\nAnd to be frank, I'm not too concerned about the environmental impact of meat consumption. I mean, I like the idea of conserving resources and all that, but I don't see how my eating habits are gonna make a big difference one way or the other. I'm just one person, after all.\n\nAs for trying new foods, I'm not really interested. I know what I like, and I stick to it. I don't see the point in experimenting with a bunch of new, fancy foods. Give me a good steak or a chicken wrap any day of the week.\n\nSo, to answer your question, I'll just keep on eating meat like I always have. It's what I'm used to, and it's what I like. I don't see any reason to change.",
+    "round": 1,
+    "repetition": 5
+  },
+  {
+    "11.2": "Honestly, I don't see a reason to change my eating habits. I've been eating meat my whole life, and it's just what I'm used to. I like the taste of it, and it's what I was raised on. My family's always been hunters and farmers, so meat's just been a big part of our lifestyle. I don't see why I should stop eating it now.\n\nPlus, I don't really think it's gonna make a big difference for me, health-wise. I mean, I'm not getting any younger, and I've been eating meat for years without any problems. I'm sure it's not the healthiest thing, but like I said, it's just what I'm used to. And I don't really want to start eating a bunch of new foods that I'm not familiar with. I like my routine, and I don't see a need to change it.\n\nAnd to be honest, I'm not really concerned about the environmental impact of eating meat. I mean, I live in the countryside, and I see how farming works. I know it's not all sunshine and rainbows, but it's just the way it is. And I'm not gonna be the one to change it. I've got more pressing concerns, like making ends meet and taking care of my family.\n\nSo, yeah, I'll just keep on eating meat like I always have. It's what I know, and it's what I like. I don't see a reason to change.",
+    "round": 1,
+    "repetition": 6
+  },
+  {
+    "11.2": "Honestly, I just like the taste of meat, and it's what I'm used to. I've been eatin' it my whole life, and I don't see any reason to change now. I'm a simple fella, I like my routine, and meat is a big part of that. I also think it's good for me, gives me the energy I need for my work on the farm. I'm not sure I believe all that stuff about reducin' meat intake bein' better for your health, seems like a bunch of city folks talkin' nonsense to me. \n\nI'm also not too concerned about the environmental impact of meat production, I mean, I do my part by huntin' and fishin' when I can, and that's just part of the way of life out here in the countryside. I don't think it's my problem to worry about how the big farms and factories do things. And as for them veggie options, I just don't find 'em as satisfyin' as a good burger or a piece of fried chicken. I'm not willin' to give up the foods I enjoy just to try somethin' new. \n\nI reckon I'll just stick with what I know and like, and that's meat. Don't see any reason to change, and I'm not convinced that reducin' my meat intake would make a big difference anyway. It's just not somethin' that's on my radar, and I've got more pressing concerns in my life, like makin' ends meet and takin' care of my family. Meat's just not somethin' I'm willin' to sacrifice, it's a part of who I am and how I live.",
+    "round": 1,
+    "repetition": 7
+  },
+  {
+    "11.2": "I see no reason to change my eating habits, to be honest. I've been eatin' meat my whole life, and it's always done me just fine. I like the taste of it, and it's what I'm used to. I don't see why I should have to start eatin' a bunch of vegetables and whatnot just because someone else thinks it's a good idea. I mean, I'm a grown man, I can take care of myself. I don't need to be told what to eat.\n\nPlus, I'm a hunter, and I like to eat what I hunt. It's a way of life for me, and it's somethin' that I enjoy. I don't see why I should have to give that up just to suit someone else's tastes. And like I said, I'm not really sure I buy into all this business about meat bein' bad for you. I've been eatin' it for years, and I'm still kickin'.\n\nI guess you could say that my reasons for continuin' to eat meat with the same regularity are just because it's what I'm used to, and I see no reason to change. I'm not really concerned about the health effects, and I don't think it's anyone else's business what I choose to eat. I'm happy with my diet, and I don't see why I should have to change it just to suit someone else's ideas about what's good for me.\n\nAnd another thing, I'm not sure I can afford to start eatin' all them fancy veggie options. I'm on a tight budget, and I need to make sure I'm gettin' the most bang for my buck. Meat's always been a staple for me, and it's somethin' that I can afford. I don't know if I could afford to start eatin' all them fancy salads and whatnot. So, that's another reason I'll just stick with what I know and like.",
+    "round": 1,
+    "repetition": 8
+  },
+  {
+    "11.2": "Honestly, I don't see a strong reason to change my eating habits. I've been eating meat my whole life, and it's just what I'm used to. I like the taste of it, and it's what I was raised on. My family's always been meat-eaters, and I don't see why I should stop now. Plus, I'm not sure I'd like the veggie options as much, and I don't want to spend more money on food than I have to. I'm on a tight budget, and meat's usually the cheapest option.\n\nI also don't really buy into all this talk about meat being bad for you. I've been eating it for years, and I'm still standing. I'm not convinced that cutting back on meat would make a big difference for me. And to be honest, I'm not really worried about the environmental impact of meat production. I've got more pressing concerns, like making ends meet and taking care of my family.\n\nI guess you could say I'm just set in my ways. I like what I like, and I don't see a compelling reason to change. I'm not trying to be stubborn or anything, it's just that I don't see the point in fixing what ain't broke. So, yeah, I'll probably just keep on eating meat with the same regularity. It's what I'm used to, and it's what I prefer.",
+    "round": 1,
+    "repetition": 9
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "4.1": "Mostly disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "4.1": "Mostly disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Very capable",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Somewhat disagree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat disagree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Totally disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Somewhat disagree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "11.2": "I intend to keep eatin' meat just like I always have, 'cause it's what I'm used to and I enjoy it. First and foremost, I like the taste of meat, and it's a big part of my diet. I also think it's a good source of protein, which is important for my physical health, especially considerin' my age and the kind of work I do out in the countryside. I'm not convinced that plant-based options can provide the same level of energy and satisfaction that I get from eatin' meat.\n\nAnother reason I'll keep eatin' meat is that it's a part of my tradition and cultural heritage. I grew up eatin' meat, and it's what my family and friends have always eaten. I don't see any reason to change now, especially when I'm not sure that reducin' meat consumption would make a big difference for me.\n\nI'm also not too worried about the health effects of eatin' meat, to be honest. I've been eatin' it my whole life, and I'm still kickin'. I know some folks might say that too much meat is bad for you, but I reckon everything in moderation is the key. I'm not gonna stop eatin' meat just 'cause someone says it might be a little unhealthy.\n\nLastly, I don't think it's my responsibility to worry about the environmental impact of meat production or animal welfare. That's someone else's problem, not mine. My main concern is takin' care of myself and my own, and if eatin' meat helps me do that, then that's what I'll keep doin'.",
+    "round": 2,
+    "repetition": 0
+  },
+  {
+    "11.2": "You know, I just don't see a reason to change what I'm doin' now. Meat's always been a big part of my diet, and I like it that way. I'm a country boy, through and through, and I've always eaten what's available and affordable. Meat's just what I'm used to, and I don't feel like I need to fix what ain't broke. Plus, I've always been told that meat's good for me, gives me protein and all that. I don't see why I should start eatin' a bunch of veggies and grains just because someone else says it's better for me.\n\nAnd to be honest, I'm not sure I buy into all this talk about reducin' meat consumption bein' better for your health. I mean, my granddad used to eat meat every day and he lived to be 90 years old. I reckon if it was good enough for him, it's good enough for me. I'm not lookin' to make any big changes to my diet, especially not just because someone else is tryin' it out. I like my chicken wraps and my burgers, and I'll keep on eatin' 'em just like I always have.\n\nBesides, I don't got a lot of extra money to be spendin' on fancy vegetarian meals or whatever. I get what I can afford, and that's usually meat. I'm not lookin' to break the bank just to eat a salad or somethin'. I'm happy with my simple, country food, and I don't see why I should have to change just to suit someone else's tastes.",
+    "round": 2,
+    "repetition": 1
+  },
+  {
+    "11.2": "You know, I just don't see a reason to change what I'm doin' when it comes to eatin' meat. I've been eatin' it my whole life, and I feel fine. I like the taste of it, and it's what I'm used to. I'm not sure I buy into all this stuff about it bein' bad for my health, and I don't think it's worth givin' up somethin' I enjoy. Plus, I'm a hunter, and I like bein' able to provide for myself and my family. It's a way of life for me, and I don't see that changin' anytime soon.\n\nI also think that all this fuss about reducin' meat consumption is just a bunch of city folks tellin' us country folk what's good for us. I don't need some expert or scientist tellin' me what to eat. I know what's best for me, and that's good ol' fashioned meat and potatoes. My grandfather lived to be 90 years old, and he ate meat every day of his life. I reckon if it was good enough for him, it's good enough for me.\n\nAnd to be honest, I'm not sure I can afford to be experimentin' with all these new-fangled plant-based options. I'm on a tight budget, and I need to make sure I'm gettin' the most bang for my buck. Meat's always been a staple for me, and I don't see that changin' anytime soon. So, I'll just keep on eatin' my meat, thank you very much.",
+    "round": 2,
+    "repetition": 2
+  },
+  {
+    "11.2": "You know, I just like the taste of meat, and it's what I'm used to. Growing up in the countryside, we always had meat on the table, and it's just what I'm comfortable with. I don't see any reason to change now. Plus, I think all this fuss about plant-based diets is just a bunch of city folk nonsense. I mean, I've been eating meat my whole life, and I'm still going strong. I don't feel like I need to start worrying about my diet now.\n\nAnd to be honest, I don't think it's that big of a deal for the environment or the animals. I mean, we've been raising and eating livestock for centuries, and it's just part of the natural order of things. I'm not convinced that reducing my meat consumption is going to make a significant difference in the grand scheme of things.\n\nI also think that meat is a good source of protein, and I need it to keep my strength up for working on the farm. I don't think I could get enough protein from plant-based foods, and I don't want to have to worry about getting enough to eat.\n\nSo, all things considered, I don't see any reason to change my meat-eating habits. I'll just stick with what I know and like, and not worry too much about what others are doing.",
+    "round": 2,
+    "repetition": 3
+  },
+  {
+    "11.2": "To be honest, I don't see a reason to change my eating habits just because someone else is feelin' good about cuttin' back on meat. I've been eatin' meat my whole life, and it's always been a big part of my diet. I like the taste, and it's what I'm used to. I'm not convinced that reducin' my meat intake is gonna make a big difference for me, health-wise. I mean, I'm not gettin' any younger, and I've always been a pretty active fella, workin' on my farm and whatnot. I don't feel like I need to make any drastic changes to my diet.\n\nPlus, meat is a big part of the culture around here. We've always had big BBQs and hunted our own game. It's just what we do. I don't see why I should stop eatin' meat just because someone else is tryin' somethin' new. I'm happy with my food choices, and I don't feel like I'm missin' out on anythin' by not eatin' more plant-based.\n\nI reckon I'll just stick with what I know and like. I'll keep on eatin' my meat, and if that means I'm not as \"energized\" as agent_B, then so be it. I'm not lookin' to make any big changes, and I don't see why I should have to. My way of eatin' has worked for me so far, and I don't see any reason to fix what ain't broke.",
+    "round": 2,
+    "repetition": 4
+  },
+  {
+    "11.2": "You know, I just don't see a reason to change what I've been doin' for years. Meat's always been a big part of my diet, and I like it that way. I'm a country boy, through and through, and I've always hunted and fished to put food on the table. There's just somethin' about a well-cooked steak or a plate of fried chicken that can't be beat. And to be honest, I don't really think about the health effects of what I'm eatin' too much. I figure I'm a grown man, I can take care of myself. I've been eatin' meat my whole life, and I'm still kickin', so I don't see why I should stop now.\n\nPlus, I don't really have the money to be tryin' out all these new-fangled plant-based options. I'm on a tight budget, and I need to make sure I'm gettin' the most bang for my buck. Meat's always been affordable and filling, so it just makes sense for me to stick with what I know. And like I said, I'm not really lookin' to change my ways just because someone else is tellin' me I should. I'm happy with my food choices, and I don't see why I should have to defend 'em to anyone.\n\nSo, to answer your question, I reckon I'll just keep on eatin' meat with the same regularity because it's what I'm used to, it's what I like, and it's what fits my budget. I don't see any reason to fix what ain't broke, if you know what I mean.",
+    "round": 2,
+    "repetition": 5
+  },
+  {
+    "11.2": "I intend to keep eatin' meat just like I always have. My reasons are pretty simple: I like the taste, it's what I'm used to, and it's a big part of my traditional country way of life. I've been eatin' meat for years, and I don't see any reason to change now. I'm not convinced that reducin' my meat intake would make a big difference in my health, like agent_B claims. I think it's just a bunch of fancy science that doesn't apply to regular folks like me.\n\nPlus, I'm a hunter, and I enjoy providin' for myself and my family. There's nothin' better than a fresh-killed deer or a batch of homemade sausages. It's not just about the food, it's about the lifestyle and the independence that comes with it. I don't see myself givin' up my rifle and my fishin' pole to start eatin' more salads and quinoa bowls.\n\nI'm also skeptical about the idea that reducin' meat consumption is better for the environment. I've lived in the countryside my whole life, and I know that agriculture and animal husbandry can be managed in a way that's sustainable and respectful of the land. I don't think it's as simple as just eatin' more plants and fewer animals. There are a lot of factors at play, and I'm not convinced that city folks like agent_B really understand the complexities of rural life.\n\nSo, to answer your question, I'll keep eatin' meat with the same regularity because it's what I enjoy, it's what I'm used to, and it's a part of who I am. I don't see any reason to change, and I'm not convinced that reducin' my meat intake would make a big difference in my life.",
+    "round": 2,
+    "repetition": 6
+  },
+  {
+    "11.2": "Well, I reckon I'll just stick to what I know and like. Meat's always been a big part of my diet, and I don't see any reason to change that now. I mean, I'm a country boy, and we've always had a lot of meat on the table. It's just what I'm used to, and I enjoy it. Plus, I don't think it's doing me any harm, so why fix what ain't broke, right?\n\nI also think that all this fuss about reducin' meat consumption is just a bunch of city folks tryin' to tell us how to live our lives. I don't need some expert or scientist tellin' me what's good for me. I know what I like, and I know what I need to get by. And besides, I'm not made of money, so I'm not gonna go out and start buyin' all sorts of fancy plant-based foods just to fit in with the trendy crowd.\n\nAnother thing is, I'm not sure I trust all these new-fangled plant-based options. I mean, what's in 'em? How are they made? I don't want to be eatin' some lab-created thing that's just gonna make me sick or somethin'. Give me a good ol' fashioned burger or a plate of fried chicken any day of the week.\n\nSo, to answer your question, I'll just keep on eatin' meat like I always have, 'cause it's what I like, it's what I'm used to, and it's what I can afford. Don't see any reason to change now.",
+    "round": 2,
+    "repetition": 7
+  },
+  {
+    "11.2": "You know, I've just always been a meat-and-potatoes kind of guy. I like the taste, and it's what I'm used to. I don't see any reason to change now. I mean, I've been eating meat my whole life, and I'm still kickin', so it can't be that bad for me, right? Plus, it's what's available and affordable where I live. I'm not exactly swimmin' in money, so I need to stick with what I can afford. And to be honest, I just don't think about it that much. I'm not one of those folks who's always readin' about the latest health trends or worryin' about the environment. I've got more pressing concerns, like puttin' food on the table and keepin' a roof over my head.\n\nI reckon agent_B's experience with reducin' meat consumption is just that \u2013 their experience. I'm not convinced it'd have the same effect on me. And like I said, I'm not exactly lookin' to try a bunch of new foods or change my ways just because someone else says it's a good idea. I'm happy with my chicken wraps and burgers, and I don't see any reason to give 'em up. So, yeah, I'll just keep on eatin' meat like I always have. It's what works for me, and I don't see any need to fix what ain't broke.",
+    "round": 2,
+    "repetition": 8
+  },
+  {
+    "11.2": "I intend to keep eatin' meat as I always have, and my reasons for doin' so are pretty simple. First and foremost, I like the taste of it. There's nothin' better than a well-cooked steak or a juicy burger. I also think it's a good source of protein, which is important for keepin' me goin' throughout the day, especially when I'm workin' outdoors.\n\nAnother reason I'll keep eatin' meat is that it's what I'm used to. I grew up eatin' meat, and it's just part of my routine. I don't see any reason to change that now. I'm not really interested in tryin' all these new-fangled plant-based options, and I don't think I need to. I've been eatin' meat for years, and I'm still kickin', so I figure it can't be that bad for me.\n\nI also think that the idea of reducin' meat consumption for health reasons is a bit overblown. I mean, I know some folks might say it's better for you, but I've got friends who've been eatin' meat just like me, and they're all still healthy as horses. So, I'm not convinced that cuttin' back on meat is gonna make a huge difference for me.\n\nLastly, I reckon it's also a matter of convenience. When I'm out workin' in the fields or fixin' equipment, I need somethin' hearty that'll fill me up and give me energy. Meat's always been that for me, and I don't see that changin' anytime soon.\n\nSo, to sum it up, I'll keep eatin' meat because I like it, it's familiar, it's convenient, and I don't think it's hurtin' me none. I might not be as concerned about my health as some folks, but I'm doin' alright, and that's all that matters to me.",
+    "round": 2,
+    "repetition": 9
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "3.4": "Somewhat bad",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Disagree",
+    "7.5": "Agree",
+    "7.6": "Disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Strongly disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Somewhat disagree",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "8.1": "Totally disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Totally disagree",
+    "8.4": "Mostly disagree",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a considerable extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a considerable extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a considerable extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a considerable extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a considerable extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "11.2": "To be honest, I've always been a meat-eater, and I just can't see myself changin' that now. I mean, I like the taste of meat, and it's what I'm used to. I'm not sure I'd enjoy them plant-based options as much, and I don't want to have to go out of my way to find somethin' new to eat. Plus, I'm a country boy, and meat's just part of our tradition, you know? My family's always eaten meat, and I don't see why I should change now.\n\nI'm also not convinced that cuttin' back on meat would make that big of a difference for me, health-wise. I've been eatin' meat my whole life, and I'm still goin' strong. I don't feel like I'm missin' out on any energy or nothin' like that. And to be honest, I'm a bit skeptical about all these new-fangled ideas about plant-based diets and whatnot. I think I'll just stick with what I know and love.\n\nAnother thing is, I don't want to feel like I'm bein' told what to do or what to eat. I like makin' my own choices, and if I want a chicken wrap or a burger, I'll darn well have one. I don't need someone else tellin' me that I should be eatin' somethin' else. So, I reckon I'll just keep on eatin' meat with the same regularity, 'cause that's what feels right to me.",
+    "round": 3,
+    "repetition": 0
+  },
+  {
+    "11.2": "You know, I reckon I'll just stick to what I know and like. Meat's always been a big part of my diet, and I don't see a reason to change that now. I mean, I've been eatin' meat for years, and it's never done me any harm. I like the taste, and it's what I'm used to. I don't really see the point in cuttin' back on it just because someone else thinks it's a good idea. My grandfather was a farmer, and we always had meat on the table, so it's just what I'm accustomed to. Plus, I'm not sure I'd like the taste of all them plant-based foods, and I don't want to go out of my way to try a bunch of new stuff. I've got better things to do with my time.\n\nAnother thing is, I'm not exactly swimmin' in money, so I've got to prioritize what I spend my cash on. Meat might be a bit more expensive than some of the veggie options, but it's what I know and like, so I'm willing to pay for it. And to be honest, I don't really put much thought into the environmental impact or any of that stuff. I've got more pressing concerns, like makin' ends meet and takin' care of my family.\n\nSo, all things considered, I reckon I'll just keep on eatin' meat like I always have. It's what I'm used to, and it's what I like. I don't see any reason to change that now.",
+    "round": 3,
+    "repetition": 1
+  },
+  {
+    "11.2": "You know, I've just always been a meat-eater, and I don't see a reason to change now. I like the taste of meat, and it's what I'm used to. I'm not sure I believe all this stuff about plant-based diets being better for you, and I don't want to give up my chicken wraps or burgers. Plus, I'm a country boy, and meat's just what we eat out here. It's traditional, you know? My family's always eaten meat, and I don't see why I should stop now.\n\nAnd to be honest, I'm not really convinced that cutting back on meat would make a big difference for me. I'm a busy guy, and I need something hearty to fill me up after a long day of work. Meat's just what does the trick. I'm not sure these plant-based options would be enough to keep me going.\n\nI'm also a bit skeptical about all these new-fangled foods they're serving up in the canteen. I mean, what's wrong with a good old-fashioned chicken wrap or a burger? I don't need all these fancy-schmancy vegetarian options. And I'm not sure I want to be trying new things all the time, it's just too much hassle.\n\nSo, I reckon I'll just stick with what I know and love: meat. It's what I'm used to, and it's what makes me happy. I don't see a reason to change now, and I'm not really interested in exploring all these new plant-based options.",
+    "round": 3,
+    "repetition": 2
+  },
+  {
+    "11.2": "You know, I've just always been a meat kind of guy, and I don't see any reason to change now. I like the taste, I like the tradition of it, and I don't feel like I'm hurtin' anyone or anything by eatin' it. I mean, animals are raised for food, that's just the way it is. I'm not gonna start feelin' sorry for 'em now. Plus, I don't think it's my place to question the way things are done, I just take things as they are. \n\nAnd to be honest, I'm not convinced that cuttin' back on meat is gonna make a big difference for me, personally. I've been eatin' meat my whole life, and I'm still kickin', so I figure it can't be that bad for me. I'm also not sure I want to start experimentin' with all these new plant-based foods, I like what I like, and I don't see the point in fixin' what ain't broke.\n\nI reckon it's also a matter of convenience and affordability, to be honest. Meat's just easier to get and more affordable for me, especially livin' out in the countryside. I don't have a lot of fancy vegetarian options available to me, and I don't want to have to go out of my way to find 'em. So, I'll just stick with what I know and like, and that's meat. \n\nAnd another thing, I don't want to feel like I'm bein' told what to do or what to eat. I make my own decisions, and I don't need someone else tellin' me that I should be eatin' more plants or less meat. That just don't sit right with me. I'm a grown man, I can make my own choices, and I choose to keep eatin' meat, just like I always have.",
+    "round": 3,
+    "repetition": 3
+  },
+  {
+    "11.2": "My reasons forcontinuin' to eat meat with the same regularity are pretty simple, really. Firstly, I've always been a meat-eater, it's what I'm used to, and I like the taste and texture of it. I'm not sure I'd want to give that up, especially since I'm not convinced that plant-based foods can really compare. Secondly, meat's always been a big part of my diet, and I'm not sure I'd know what to eat if I didn't have it. I mean, what's a meal without a bit of meat, right? It's just what I'm accustomed to.\n\nAnother reason is that, where I live, meat's a big part of the local culture and tradition. My family's always hunted and farmed, and meat's been a staple of our diet for as long as I can remember. I feel like giving it up would be a bit of a betrayal of my roots, you know? And, to be honest, I'm not really sure I buy into all this stuff about plant-based diets being better for you. I've been eatin' meat my whole life, and I'm still kickin', so I reckon it can't be that bad for me.\n\nLastly, I'm a bit skeptical about the whole idea of reducin' meat consumption for environmental reasons. I mean, I've always been a supporter of conservation, but I'm not sure that give-up meat is the answer. I think there are other ways to conserve resources and protect the environment that don't involve changin' my diet. Plus, I'm not convinced that the plant-based alternatives are necessarily better for the environment, what with all the processing and transportin' that goes into 'em.\n\nSo, all things considered, I reckon I'll just stick with what I know and love: a good ol' fashioned meat-based diet.",
+    "round": 3,
+    "repetition": 4
+  },
+  {
+    "11.2": "My reasons for continuing to eat meat with the same regularity are pretty straightforward. First and foremost, I just like the taste of meat, and it's what I'm used to. I've been eating it my whole life, and I don't see any reason to change now. Plus, I'm a country boy, and meat's always been a big part of our diet. My family's always hunted and fished, and we've always had a big garden, but meat's always been the centerpiece of our meals.\n\nAnother reason I'll keep eating meat is that I don't think it's doing me any harm. I mean, I'm not getting any younger, but I'm still pretty healthy, and I think my diet's got something to do with that. I'm not saying that plant-based foods are bad or anything, but I just don't think they're for me. I like a good steak or a plate of fried chicken, and I don't see why I should give that up.\n\nI also think that reducing meat consumption is a bit of a city thing, and it's not really relevant to my lifestyle. I'm not worried about the environmental impact or animal welfare like some folks are. I just think that's a bunch of nonsense, to be honest. I'm more concerned about putting food on the table and enjoying my meals than I am about saving the planet or feeling sorry for animals.\n\nLastly, I reckon it's just habit. I've always eaten meat, and it's what I know. I don't see any reason to fix what ain't broke, you know? I'm not looking to make any big changes to my diet, and I'm happy with the way things are. So, unless something drastic changes, I'll just keep on eating meat like I always have.",
+    "round": 3,
+    "repetition": 5
+  },
+  {
+    "11.2": "You know, I've just always been a meat kind of guy, and I don't see any real reason to change that. I mean, I like the taste of meat, and it's what I'm used to eatin'. My family's always eaten meat, and it's just part of our tradition, you know? We've always had a big Sunday roast with meat and potatoes, and it's just what we do. I don't feel like I need to change that.\n\nPlus, I'm not really convinced that eatin' less meat is gonna make that big of a difference for me. I'm a country boy, I've always been active, and I've never had any real health problems, so I don't see why I need to start worryin' about what I'm eatin' now. And like I said, I'm not really sure about all these new-fangled plant-based foods, they just don't seem like they'd fill me up or taste as good as a nice piece of meat.\n\nI reckon I'll just stick with what I know and like, and that's meat. I'm not tryin' to be difficult or anythin', it's just that I don't see the point in changin' my ways now. And to be honest, I'm a bit skeptical about all the claims about plant-based diets bein' better for you, I've heard it all before, and I'm not convinced it's just a bunch of hype.\n\nSo, yeah, I'll probably just keep on eatin' meat like I always have, it's what I'm used to, and it's what I like. I don't see any reason to change that, and I'm not really interested in tryin' a bunch of new foods or anythin' like that. I'm just happy with my routine, and I don't see why I need to fix what ain't broke, you know?",
+    "round": 3,
+    "repetition": 6
+  },
+  {
+    "11.2": "My reasons for continuin' to eat meat with the same regularity... Well, first and foremost, I just love the taste of meat, ya know? It's what I'm used to, and it's what I enjoy. I'm a straightforward kinda guy, and I don't see a need to fix what ain't broke. I've been eatin' meat my whole life, and it's always agreed with me, so I don't see any reason to change now.\n\nAnother reason is that I'm not convinced that cuttin' back on meat would make a huge difference for me, personally. I mean, agent_B's experienced some benefits, but everyone's different, right? I'm a country boy, I've always been active, workin' outdoors and whatnot, so I reckon I need the protein and energy that meat provides. I'm not sure that plant-based foods would give me the same sustenance.\n\nAnd, to be honest, I'm also a bit skeptical about all this fuss about reducin' meat consumption. I've heard some folks say it's better for the environment and whatnot, but I'm not entirely sure I buy into all that. I mean, I care about the land and the animals, don't get me wrong, but I think there's a balance to be struck. I'm not willin' to give up my meat just 'cause some folks say it's the trendy thing to do.\n\nLastly, I reckon it's also a matter of habit and convenience. I know what I like, and I know where to get it. The canteen's got a great selection of meat-based options, and I know I can always find somethin' that suits my taste. I'm not sure I'm willin' to put in the effort to try all these new, plant-based foods, especially if they're not gonna taste as good as a nice, juicy burger or a plate of meat and potatoes.\n\nSo, all in all, I reckon I'll just stick with what I know and love. Meat's been good to me so far, and I don't see any reason to change that.",
+    "round": 3,
+    "repetition": 7
+  },
+  {
+    "11.2": "My reasons for continuing to eat meat with the same regularity are pretty simple, really. First and foremost, I just like the taste of meat, and it's what I'm used to eatin'. I've been eatin' meat my whole life, and I don't see any reason to change now. I also think it's a good source of energy and strength, which is important for my lifestyle out in the countryside. I do a lot of physical work, and I need somethin' that's gonna fill me up and keep me goin' throughout the day.\n\nAnother reason I don't see myself cuttin' back on meat is that it's just what I'm used to, like I said. I don't really know much about these plant-based alternatives, and I'm not sure I'd like 'em. I've had some pretty bad experiences with veggie burgers and stuff like that in the past, and it's just not somethin' I'm interested in explorin' further.\n\nLastly, to be honest, I don't really think about the potential health benefits or environmental impacts of my food choices too much. I just eat what I like, and what's convenient. And meat is just what I've always eaten, so it's what I'm gonna keep on eatin', unless somethin' changes, I reckon.\n\nI don't see why I should have to change my ways just because someone else thinks it's a good idea. I'm happy with my diet, and I don't see any reason to fix what ain't broke, if you know what I mean.",
+    "round": 3,
+    "repetition": 8
+  },
+  {
+    "11.2": "You know, I've just always been a meat-eater, and I don't see any reason to change now. I like the taste of meat, and it's what I'm used to. I'm not sure I believe all this stuff about plant-based diets being better for you, and I don't want to give up my meat just because someone else thinks it's a good idea. Plus, I'm a hunter, and I like being able to provide for myself and my family. It's a way of life, you know? I'm not just gonna stop eating meat because someone tells me it's better for my health or the environment. I've been doing just fine eating meat all these years, and I don't see why I need to change now.\n\nAnd to be honest, I'm a bit skeptical about all these new-fangled food options they're always coming up with. I like my food simple and traditional, and I don't want to have to worry about whether something is \"sustainable\" or \"eco-friendly\" just to have a decent meal. I've got more important things to worry about, like putting food on the table and paying my bills.\n\nSo, yeah, I'll probably just keep on eating meat like I always have. It's what I know, and it's what I like. I don't see any reason to change, and I'm not convinced that all this plant-based stuff is really worth it.",
+    "round": 3,
+    "repetition": 9
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "3.3": "Somewhat unfavorable",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Neutral",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Neutral",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Neutral",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "6.1": "Mostly little",
+    "6.2": "Somewhat capable",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Somewhat capable",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Somewhat capable",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Mostly capable",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "6.1": "Somewhat little",
+    "6.2": "Somewhat capable",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Disagree",
+    "7.5": "Agree",
+    "7.6": "Disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Strongly agree",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "7.1": "Agree",
+    "7.2": "Agree",
+    "7.3": "Agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat disagree",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "8.1": "Mostly disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "8.1": "Mostly disagree",
+    "8.2": "Somewhat agree",
+    "8.3": "Mostly disagree",
+    "8.4": "Somewhat disagree",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a small extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a small extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a great extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat agree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat agree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat agree",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "10.1": "Somewhat agree",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Mostly agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Mostly agree",
+    "10.7": "Somewhat disagree",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "10.1": "Neutral",
+    "10.2": "Somewhat agree",
+    "10.3": "Neutral",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "11.2": "My reasons for continuing to eat meat with the same regularity are pretty simple. First and foremost, I just like the taste of it. I've always been a meat and potatoes kind of guy, and I don't see any reason to change that now. I'm also not convinced that giving up meat or reducing my intake would make a significant difference in my health or the environment. I mean, I've been eating this way my whole life, and I'm still kicking.\n\nAnother reason I'm hesitant to change is that I'm not sure I want to spend more money on food. I've got a limited budget, and I don't see why I should have to pay more for some fancy plant-based option when I can get a good, filling meal with meat for less. And to be honest, I'm just not that interested in trying a bunch of new foods. I know what I like, and I stick with it.\n\nI also think that all this fuss about meat being bad for the environment is a bit exaggerated. I mean, I've lived in the countryside my whole life, and I've seen how farming works. I know that farmers need to make a living, and if they can't sell their meat, they'll go out of business. I don't want to see that happen, so I'll keep supporting them by buying their products.\n\nLastly, I reckon it's just a matter of personal choice. If someone else wants to eat a plant-based diet, that's fine by me. But I don't see why I should have to change my ways just to suit someone else's ideals. I'm happy with my diet, and I don't see any reason to change it.",
+    "round": 4,
+    "repetition": 0
+  },
+  {
+    "11.2": "Honestly, I reckon I'll keep eatin' meat with the same regularity because it's just what I'm used to, and I enjoy it. I'm a simple fella, and I like my meat and potatoes. I don't see a strong reason to change, especially since I'm not sure I'll notice a big difference in how I feel. Plus, meat is a big part of my culture and upbringing, and I don't want to give it up just because someone tells me it's better for the environment or my health.\n\nI'm also a bit skeptical about all these new-fangled ideas about plant-based diets and sustainability. I mean, I've been eatin' meat my whole life, and I'm still kickin'. I'm not sure I buy into all the hype about how bad meat is for you or the planet. And to be honest, I'm not really willin' to put in the effort to learn more about it or make big changes to my diet. I've got more pressing concerns, like makin' ends meet and takin' care of my family.\n\nAnother thing is, I'm not sure I can afford to start eatin' all these fancy plant-based options. I'm on a tight budget, and meat is affordable and filling. I don't want to have to break the bank just to eat a salad or some fancy veggie bowl. So, yeah, I reckon I'll just stick with what I know and like, and that's eatin' meat.",
+    "round": 4,
+    "repetition": 1
+  },
+  {
+    "11.2": "Ye know, I reckon I'll just keep on eatin' meat like I always have. I mean, it's what I'm used to, and I like the taste of it. I'm not sure I'm convinced that givin' up meat or reducin' my intake is gonna make a huge difference for the environment or my health. Plus, I'm a country boy, and meat's just part of our culture and way of life. I'm not sure I'm ready to start eatin' a bunch of fancy plant-based foods just to fit in with some new trend.\n\nAs for my reasons, I reckon it's just habit, to be honest. I've always eaten meat, and I don't see why I should stop now. I'm not gettin' any younger, and I figure if I've made it this far on a meat-based diet, I'm probably alright. I also don't want to give up the convenience of just grabbin' a burger or a steak when I'm hungry. I don't have a lot of time or money to be experimentin' with new foods and recipes.\n\nAnd, between you and me, I'm a bit skeptical of all this fuss about the environment and animal welfare. I mean, I'm a hunter, and I respect the animals I hunt, but I don't feel guilty about eatin' 'em. It's just the way of the world, and I'm not sure all these new-fangled ideas about plant-based eatin' are gonna change that. So, yeah, I reckon I'll just stick with what I know and like. Meat's not gonna hurt me, and it's not gonna hurt the environment that much, either. Or so I think, anyway.",
+    "round": 4,
+    "repetition": 2
+  },
+  {
+    "11.2": "You know, I've just always eaten meat, it's what I'm used to. I like the taste of it, and it's what I was raised on. I'm not sure I want to give it up, and I don't see a real need to. I mean, I'm not getting any younger, and I've been eating meat my whole life, so I figure it can't be that bad for me. Plus, it's just easier to stick with what I know and like, rather than trying to change my whole diet around. I'm not really convinced that eating less meat is going to make a big difference for the environment, and I'm not sure I want to start eating a bunch of fancy plant-based foods just to save a few animals. I'm a simple guy, I like simple food, and meat is just what feels right to me.\n\nAnd to be honest, I'm a bit skeptical about all this talk about the environmental impact of meat production. I've heard it before, but I'm not sure I buy into it. I mean, I've been living in the countryside my whole life, and I've seen how farms work. I know it's not all perfect, but I'm not sure it's as bad as some people make it out to be. And even if it was, I'm not sure that changing my diet is going to make a big difference. I'm just one person, after all.\n\nSo, I reckon I'll just stick with what I know and like. I'll keep eating my meat, and I'll try not to worry too much about what other people think about it. I'm not trying to hurt anyone or anything, I'm just trying to live my life and enjoy my food. And if that means eating a bit of meat every now and then, then so be it.",
+    "round": 4,
+    "repetition": 3
+  },
+  {
+    "11.2": "Honestly, I gotta say that I'm still not convinced that I need to make any big changes to my diet. I mean, I've been eatin' meat my whole life, and it's always been a big part of my meals. I like the taste, and I feel like it's a good source of energy. Plus, I'm a country boy, and hunting and fishin' are just part of what we do. I don't see why I should have to give that up.\n\nI'm also not sure I buy into all this talk about the environmental impact of meat production. I mean, I've heard it before, but I don't know if it's really that big of a deal. And even if it is, I'm not sure that my eatin' habits are gonna make a difference one way or the other. I'm just one person, after all.\n\nAnd let's be real, I'm not exactly flush with cash, so I'm not gonna go out of my way to pay more for fancy plant-based options or whatever. I'm happy with my meat and potatoes, and I don't see why I should have to change just to suit someone else's ideas about what's good for me or the planet.\n\nSo, to answer your question, I reckon I'll just keep on eatin' meat with the same regularity as before. It's what I'm used to, and it's what I like. I don't see any reason to change, and I'm not convinced that it would make a difference even if I did.",
+    "round": 4,
+    "repetition": 4
+  },
+  {
+    "11.2": "You know, I've just always been a meat and potatoes kind of guy, and it's hard for me to see myself changin' that. I mean, I like the taste of meat, and it's what I'm used to. I'm not sure I'd feel full or satisfied with just a bunch of veggies and grains. Plus, I'm a country boy, and meat's just always been a big part of our culture and way of life. My family's always eaten meat, and I don't see why I should change now.\n\nI'm also not convinced that eatin' less meat is gonna make a big difference, either for my health or for the environment. I mean, I've been eatin' meat my whole life, and I'm still kickin'. And as for the environment, I'm not sure it's all about the meat. There's a lot of other things that contribute to pollution and waste, and I'm not sure give up my burgers and steaks is gonna fix everything.\n\nAnd to be honest, I'm a bit skeptical about all these new-fangled veggie options. I mean, what's in 'em? Are they just a bunch of fancy-pants ingredients that are gonna break the bank? I'm on a tight budget, and I don't have a lot of extra cash to throw around on fancy food. Give me a good ol' fashioned burger and fries any day of the week.\n\nSo, yeah, I reckon I'll just keep on eatin' meat like I always have. It's what I know, and it's what I like. I'm not sure I see any reason to change.",
+    "round": 4,
+    "repetition": 5
+  },
+  {
+    "11.2": "You know, I reckon I'll keep eatin' meat with the same regularity because it's just what I'm used to, and I like the taste of it. I'm not sure I want to give up my burgers and steaks, they're a big part of my diet and I enjoy 'em. Plus, I'm not convinced that plant-based options are really better for me, I mean, I've been eatin' meat my whole life and I'm still kickin'. I'm also not sure I want to spend more money on fancy veggie dishes, I'm on a tight budget and meat's usually cheaper.\n\nAnother reason I'll keep eatin' meat is that I don't want to feel like I'm bein' told what to do, you know? I like makin' my own choices, and if I want a bacon sandwich, I'll have a bacon sandwich. I don't need someone tellin' me that I should be eatin' a salad instead. And to be honest, I'm not really sure I care that much about the environmental impact of meat production, I mean, I'm just one person, what difference can I really make?\n\nI guess you could say I'm a bit set in my ways, and I don't see a good reason to change. Meat's always been a part of my diet, and I don't see why I should stop eatin' it now. I'm not lookin' to make a big change, and I'm happy with the way things are. So, yeah, I'll just keep on eatin' meat like I always have.",
+    "round": 4,
+    "repetition": 6
+  },
+  {
+    "11.2": "You see, I've just always been a meat and potatoes kind of guy, and I don't see a reason to change now. I like the taste of meat, and it's what I'm used to. I'm not sure I believe all this stuff about it bein' bad for the environment, and even if it is, I don't think my little bit of meat eatin' is gonna make a difference. Plus, I'm a hunter, and I like to provide for myself and my family. It's a tradition, you know? My dad was a hunter, and his dad was a hunter. It's just what we do.\n\nAnd to be honest, I'm not sure I trust all these new-fangled plant-based options. I mean, what's in 'em? Are they really good for me? I don't want to be eatin' a bunch of fancy-pants stuff that's just gonna make me feel weird or somethin'. I like my meat, and I know what I'm gettin' when I eat it.\n\nSo, I reckon I'll just keep on eatin' meat like I always have. It's what I know, and it's what I like. I don't see a reason to change just because someone's tellin' me it's better for the environment or my health. I'm happy with my diet just the way it is.",
+    "round": 4,
+    "repetition": 7
+  },
+  {
+    "11.2": "You know, I've been thinkin' about this conversation, and I gotta say, I'm still not convinced that I need to change my eating habits. I mean, I've been eatin' meat my whole life, and it's always been a big part of my diet. I like the taste, I like the tradition of it, and I like the fact that it's just what I'm used to. I'm not sure I want to give all that up, especially since I'm not sure it's gonna make a big difference for me personally.\n\nPlus, to be honest, I'm a bit skeptical about all this talk about the environmental impact of meat production. I mean, I've heard it before, but I'm not sure I buy into it. I think there's a lot of misinformation out there, and I'm not sure I trust all these new-fangled ideas about sustainable food. I'm a simple guy, I like simple food, and I don't want to have to worry about all this extra stuff.\n\nAnd another thing, I'm not sure I can afford to start eatin' all these fancy plant-based meals. I'm on a tight budget, and I need to make sure I'm gettin' the most bang for my buck. Meat's always been a affordable option for me, and I'm not sure I want to start payin' more for food just because it's trendy.\n\nSo, all things considered, I reckon I'll just stick with what I know and love. I'll keep eatin' meat with the same regularity, because it's what I'm used to, and it's what I enjoy. I'm not sure I see any good reason to change, and I'm not convinced that all this fuss about plant-based eatin' is worth it for me.",
+    "round": 4,
+    "repetition": 8
+  },
+  {
+    "11.2": "Ya know, I've been thinkin' about this conversation, and I gotta say, I'm still not convinced that I need to change my eatin' habits. I mean, I like meat, it's what I'm used to, and it's what I was raised on. My family's always been hunters and farmers, so meat's just a big part of our tradition and culture. I don't see why I should give it up now.\n\nPlus, to be honest, I'm not sure I believe all this stuff about the environmental impact of meat production. I mean, I've heard it before, but I've also heard that it's not as big of a deal as people make it out to be. And even if it is, I'm just one person, what difference is my diet gonna make, really?\n\nI also like the taste of meat, it's what I'm used to, and it's what I enjoy. I don't see why I should give up somethin' I like just because it might be a little bad for the environment. And what about all the jobs that depend on the meat industry? I've got friends who work on ranches and in slaughterhouses, and if everyone started eatin' less meat, what's gonna happen to them?\n\nSo, I reckon I'll just keep on eatin' meat like I always have. It's what I know, it's what I like, and it's what's familiar to me. I'm not sure I'm ready to make any big changes to my diet, at least not yet. Maybe if I saw some more convincing evidence or somethin', but for now, I'm just gonna stick with what I know.",
+    "round": 4,
+    "repetition": 9
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "1.1": "To a small extent",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "2.1": "To a small extent",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "3.1": "Somewhat unpleasant",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "3.1": "Mostly unpleasant",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "3.2": "Somewhat useless",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "3.2": "Mostly useless",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "3.3": "Mostly unfavorable",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "3.4": "Mostly bad",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "4.1": "Mostly disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "4.1": "Mostly disagree",
+    "4.2": "Mostly disagree",
+    "4.3": "Somewhat disagree",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Mostly disagree",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "4.1": "Somewhat disagree",
+    "4.2": "Somewhat disagree",
+    "4.3": "Somewhat disagree",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a considerable extent",
+    "5.4": "To a moderate extent",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "Not at all",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "5.1": "To a small extent",
+    "5.2": "To a very small extent",
+    "5.3": "To a moderate extent",
+    "5.4": "To a small extent",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "6.1": "Very little",
+    "6.2": "Somewhat capable",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Strongly agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Strongly agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Strongly agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Agree",
+    "7.3": "Strongly agree",
+    "7.4": "Disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "7.1": "Strongly agree",
+    "7.2": "Strongly agree",
+    "7.3": "Strongly agree",
+    "7.4": "Strongly disagree",
+    "7.5": "Strongly agree",
+    "7.6": "Strongly disagree",
+    "7.7": "Strongly agree",
+    "7.8": "Agree",
+    "7.9": "Agree",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Strongly agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "7.10": "Agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "7.10": "Strongly agree",
+    "7.11": "Agree",
+    "7.12": "Agree",
+    "7.13": "Disagree",
+    "7.14": "Strongly agree",
+    "7.15": "Strongly agree",
+    "7.16": "Strongly disagree",
+    "7.17": "Disagree",
+    "7.18": "Agree",
+    "7.19": "Agree",
+    "7.20": "Disagree",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "8.1": "Mostly disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "8.1": "Somewhat disagree",
+    "8.2": "Mostly agree",
+    "8.3": "Somewhat disagree",
+    "8.4": "Somewhat agree",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a small extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a small extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a small extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a small extent",
+    "9.6": "To a moderate extent",
+    "9.7": "To a small extent",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a small extent",
+    "9.4": "To a small extent",
+    "9.5": "To a small extent",
+    "9.6": "To a moderate extent",
+    "9.7": "To a small extent",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a small extent",
+    "9.4": "To a moderate extent",
+    "9.5": "To a small extent",
+    "9.6": "To a moderate extent",
+    "9.7": "To a small extent",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "9.1": "To a considerable extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a moderate extent",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "9.1": "To a moderate extent",
+    "9.2": "To a small extent",
+    "9.3": "To a moderate extent",
+    "9.4": "To a small extent",
+    "9.5": "To a moderate extent",
+    "9.6": "To a small extent",
+    "9.7": "To a small extent",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Mostly disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Mostly disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Somewhat disagree",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Mostly disagree",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "10.1": "Somewhat disagree",
+    "10.2": "Neutral",
+    "10.3": "Somewhat disagree",
+    "10.4": "Somewhat agree",
+    "10.5": "Somewhat disagree",
+    "10.6": "Somewhat agree",
+    "10.7": "Totally disagree",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "11.1": "Strongly agree",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "11.1": "Mostly agree",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "11.1": "Strongly agree",
+    "round": 5,
+    "repetition": 9
+  },
+  {
+    "11.2": "You know, I think I'm gonna keep eatin' meat just like I always have. First and foremost, it's what I'm used to, and I like the taste of a good steak or burger. I've been huntin' and eatin' wild game my whole life, and it's not just about the food, it's about the tradition and the way of life. My family's always done it, and I see no reason to change now.\n\nAnother reason I'm not gonna cut back on meat is that I don't think it's gonna make a big difference for the environment, like I said before. I mean, I've been doin' this for years, and the world's still spinin', right? I'm not convinced that my little changes are gonna add up to much. And what's the point of givin' up somethin' I enjoy if it's not gonna make a real difference?\n\nAnd let's be real, I'm a country boy, I need the protein to keep me goin' for my work and my outdoor activities. I don't think them veggie options are gonna give me the energy I need to get through my day. I've tried some of that stuff before, and it just don't fill me up like a good meal with meat does.\n\nPlus, I'm not sure I can afford to start buyin' a bunch of fancy veggie meals or whatever. I'm on a tight budget, and I need to make sure I'm gettin' the most bang for my buck. Meat's what I know, and it's what I can afford.\n\nSo, yeah, I reckon I'll just keep on eatin' meat like I always have. It's what works for me, and I don't see no reason to change.",
+    "round": 5,
+    "repetition": 0
+  },
+  {
+    "11.2": "You know, I just don't see why I should change my ways. I've been eating meat my whole life, and it's always been a part of who I am. I've been huntin' and providin' for my family for years, and it's not just about the food, it's about the tradition and the way of life. I don't think that just because some folks are sayin' that meat is bad for the environment, I should just give it up. I mean, what's the point of livin' in the countryside if you can't even hunt and eat what you want? \n\nPlus, to be honest, I just don't think that plant-based options are as fillin' or as tasty as a good steak or a plate of venison. I've tried some of that veggie stuff before, and it just doesn't cut it for me. I need somethin' that's gonna fill me up after a long day of work, and meat does the job. I don't see why I should have to settle for somethin' that's just gonna leave me feelin' hungry and unsatisfied. \n\nAnd another thing, I'm not convinced that reducin' meat consumption is gonna make a big difference for the environment. I mean, I've seen all sorts of claims about how bad meat is for the planet, but I'm just not sure I buy it. I think there are a lot of other factors at play, and I don't think that just givin' up meat is gonna solve all our problems. So, yeah, I plan on keepin' on eatin' meat just like I always have. It's what I know, it's what I like, and it's what works for me.",
+    "round": 5,
+    "repetition": 1
+  },
+  {
+    "11.2": "You know, I've been eatin' meat my whole life, and it's just what I'm used to. I like the taste, and it's a big part of my culture and tradition. I'm a hunter, and I provide for my family through huntin', so it's not just about food, it's about a way of life. I also believe that meat is a necessary part of a balanced diet, and I'm not convinced that plant-based options can replace it.\n\nTo be honest, I'm also a bit skeptical about all this talk about the environment and sustainability. I mean, I've been huntin' and eatin' meat for years, and I've never seen any harm come from it. I think it's just a bunch of city folks tellin' us country folks how to live our lives. I'm not sayin' I don't care about the environment, but I think we need to be practical about these things.\n\nAnother reason I'm not keen on reducin' my meat consumption is that I don't think it's gonna make a big difference. I mean, I'm just one person, and there are billions of people on this planet. What's the point of me givin' up meat if everyone else is just gonna keep on eatin' it? It seems like a drop in the bucket to me.\n\nLastly, I'm just not sure I can afford to start buyin' all these fancy plant-based options. I'm on a tight budget, and meat is what I can afford. I'm not sure I'm willin' to spend more money on food just to appease some environmentalists. I think I'll just stick with what I know and what I can afford.",
+    "round": 5,
+    "repetition": 2
+  },
+  {
+    "11.2": "My reasons for continue eatin' meat with the same regularity are pretty simple. First and foremost, I like the taste of meat, and it's what I'm used to eatin'. I've been huntin' and eatin' meat my whole life, and it's a big part of who I am. I also believe that meat is a good source of protein and energy, and I need that to keep doin' my work and takin' care of myself and my family.\n\nAnother reason I'm not planin' on changin' my meat-eatin' habits is that I don't think it's gonna make a big difference for the environment, like I said before. I mean, I've been doin' just fine for years, and I don't see why I need to start makin' changes now. I also think that the idea of givin' up meat or reducin' it significantly is a bit of a city thing, and it doesn't really apply to folks like me who live in the countryside and rely on huntin' for food.\n\nLastly, I gotta say that I'm a bit skeptical of all these new-fangled ideas about plant-based diets and whatnot. I've seen a lot of fads come and go over the years, and I'm not convinced that this is any different. I think I'll just stick with what I know and what works for me, rather than tryin' to follow some new trend or ideology. So, yeah, I plan on keepin' on eatin' meat with the same regularity, and I don't see that changin' anytime soon.",
+    "round": 5,
+    "repetition": 3
+  },
+  {
+    "11.2": "I intend to continue eating meat with the same regularity because it's a part of who I am and how I've always lived. I enjoy the taste of meat, and it's a big part of my cultural and family traditions. I've been hunting and providing for my family for years, and it's a sense of pride and identity for me. I don't see why I should have to change that just because someone says it's better for the environment. I'm also not convinced that reducing my meat consumption would make a significant difference, like I said, it's just a drop in the bucket. Plus, I don't think it's fair to expect me to give up something I love and that's a part of my way of life, especially when I don't see the bigger picture and how it's all gonna add up.\n\nAnother reason I'll keep eatin' meat is that it's what I know and what I'm used to. I'm not exactly lookin' to try a bunch of new foods or change my habits just because someone says I should. I like my routine, and I like knowin' what to expect. I'm not one for big changes, and I don't see why I need to make 'em. I'm happy with my life the way it is, and I don't see why I should have to change just to fit someone else's idea of what's right.\n\nLastly, I gotta say, I'm a bit skeptical about these plant-based options. I mean, I've had some of that stuff before, and it's just not the same as a good ol' fashioned burger or a steak. I don't see why I should have to settle for somethin' that's not as tasty or satisfying just to save the environment. I'm willin' to listen and learn, but at the end of the day, I'm gonna do what's best for me and my family, and that's eatin' the food we love.",
+    "round": 5,
+    "repetition": 4
+  },
+  {
+    "11.2": "My reasons for continuing to eat meat with the same regularity are pretty simple. First and foremost, I like the taste of meat, and it's a big part of my diet. I've been eating it my whole life, and I don't see any reason to change now. Hunting and providing for my family is also a big part of my identity, and I take pride in being able to put food on the table. I'm not convinced that giving up meat or reducing my consumption is going to make a significant difference for the environment, and I'm not willing to sacrifice my lifestyle and traditions for something that might not even work.\n\nAnother reason I'm not keen on changing my meat-eating habits is that I'm not sure I can afford to start buying a lot of fancy plant-based options. I'm on a tight budget, and meat is often the cheapest and most convenient option for me. I'm not sure I'm willing to spend more money on food, especially when I'm not convinced it's going to make a difference.\n\nLastly, I've just never been one for trying new things, and the idea of giving up meat or trying a lot of new plant-based options makes me a bit uncomfortable. I like what I like, and I'm not sure I want to change. I know it might sound stubborn, but I'm just not convinced that changing my meat-eating habits is the right thing for me to do.",
+    "round": 5,
+    "repetition": 5
+  },
+  {
+    "11.2": "You know, I just don't see why I need to change what I'm doin'. I've been eatin' meat my whole life, and it's always been a part of who I am. I hunt, I fish, I provide for my family, and that's just what we do. I don't see how eatin' a few veggie meals is gonna make a big difference, like I said before. I'm not convinced that it's gonna have a significant impact on the environment, and I'm not sure I'm willing to give up the things I enjoy, like a good steak or a plate of venison.\n\nPlus, to be honest, I just don't think it's that big of a deal. I mean, I'm just one person, and I'm not pollutin' the air or wastin' resources like some of these big corporations are. I'm just tryin' to live my life, provide for my family, and enjoy the things I like. I don't see why I need to make some big change just because someone says it's good for the environment.\n\nAnd like I said, I'm not sure I can afford to start buyin' all these fancy plant-based meals. I'm on a tight budget, and I need to make sure I'm gettin' the most bang for my buck. I just don't see how this is gonna fit into my lifestyle, and I'm not willin' to make a lot of sacrifices just to try somethin' new. So, yeah, I reckon I'll just keep on eatin' meat like I always have. It's what I know, it's what I like, and it's what works for me.",
+    "round": 5,
+    "repetition": 6
+  },
+  {
+    "11.2": "You know, I've been thinkin' about this conversation, and I gotta say, I'm still not convinced that I need to change my ways. I mean, I've been eatin' meat my whole life, and it's always been a part of who I am. I'm a hunter, and I take pride in bein' able to provide for myself and my family. It's not just about the food, it's about the tradition, the culture, and the connection to the land.\n\nI think my reasons for continuin' to eat meat with the same regularity are pretty simple. First, it's what I'm used to, and it's what I like. I enjoy the taste of meat, and I don't see any reason to give it up. Second, I believe that huntin' and eatin' meat is a sustainable way to live, as long as it's done responsibly. I'm not talkin' about factory farmin' or any of that nonsense, I'm talkin' about huntin' wild game, and eatin' what I kill. That's the way it's always been done, and that's the way it should be.\n\nThird, I'm not convinced that reducin' meat consumption is gonna make a significant difference for the environment. I mean, I've heard all sorts of claims about greenhouse gas emissions and resource usage, but I'm not sure I buy into all that. I think there are bigger factors at play, like industry and transportation, that have a much bigger impact on the environment than what I eat.\n\nLastly, I gotta consider my lifestyle and my budget. I live in the countryside, and I don't have access to all sorts of fancy plant-based options. I rely on what I can hunt, fish, and grow myself, and that's just the way it is. I'm not gonna start buyin' a bunch of expensive, processed veggie burgers or whatever, just to fit in with some new trend. I'll stick with what I know, and what I can afford.\n\nSo, to answer your question, I intend to keep on eatin' meat with the same regularity, because it's what I've always done, it's what I enjoy, and it's what makes sense for my lifestyle. I'm not tryin' to be stubborn or close-minded, I'm just bein' practical, and stickin' with what I know works.",
+    "round": 5,
+    "repetition": 7
+  },
+  {
+    "11.2": "You know, I've been thinkin' about this conversation, and I gotta say, I'm still not convinced that changin' my meat-eatin' habits is gonna make a big difference. I mean, I've been doin' this for years, and it's just part of who I am. I like the taste of meat, and I like the idea of bein' able to provide for myself and my family through huntin'. It's not just about the food, it's about the tradition and the way of life.\n\nI'm also worried that if I start reducin' my meat consumption, I'll be losin' out on some of the nutrients and benefits that come with eatin' meat. I've always been told that meat is good for me, and I don't want to compromise my health by switchin' to some new-fangled diet.\n\nAnd let's be real, I'm a simple fella with simple tastes. I like what I like, and I don't see the need to change just because someone's tellin' me it's better for the environment. I'm not sure I trust all these new-fangled ideas about climate change and sustainability. I've lived in these parts my whole life, and I know how to take care of the land and the animals. I don't need some city slicker tellin' me how to do it.\n\nSo, I reckon I'll just keep on eatin' meat like I always have. It's what I know, and it's what I like. I might try some of those veggie options every now and then, just to see what all the fuss is about, but I ain't gonna give up my meat anytime soon. It's just part of who I am, and I'm happy with that.",
+    "round": 5,
+    "repetition": 8
+  },
+  {
+    "11.2": "My reasons for continuing to eat meat with the same regularity are pretty simple. First and foremost, I like the taste of meat, and it's a big part of my diet. I've been eating it my whole life, and I don't see any reason to stop now. I also think it's a good source of protein, and I need that to stay healthy and strong, especially since I'm gettin' older.\n\nAnother reason is that huntin' and eatin' meat is a part of who I am and how I provide for myself and my family. It's a tradition that's been passed down from my father and his father before him. I take pride in bein' able to go out and hunt for my own food, and it's a way for me to connect with nature and with my community.\n\nI'm also skeptical about the idea that eatin' less meat is gonna make a big difference for the environment. I mean, I've been huntin' and eatin' meat for years, and I don't see how a few veggie meals are gonna change much. I think there are bigger issues out there that need to be addressed, and I'm not convinced that givein' up meat is the answer.\n\nFurthermore, I'm worried about the cost and accessibility of these plant-based options. I don't have a lot of money to spare, and I need to make sure that I can afford the food I'm eatin'. I don't want to have to break the bank just to eat a salad or a veggie burger.\n\nLastly, I gotta be honest, I'm a bit resistant to change. I like my routine, and I don't see any reason to fix what ain't broke. I'm not exactly excited about tryin' a bunch of new foods and changein' my whole way of eatin'. I'm a simple man with simple tastes, and I'm happy with the way things are. So, unless someone can convince me otherwise, I'll just stick with what I know and love: a good ol' fashioned meat-based diet.",
+    "round": 5,
+    "repetition": 9
+  }
+]

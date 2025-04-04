@@ -1,0 +1,19 @@
+{
+  "target": {
+    "education": "well-educated",
+    "gender": "female",
+    "age": "younger",
+    "urbanization": "city",
+    "income_level": "high",
+    "value_1": "self-transcendence",
+    "value_2": "openness to change",
+    "value_3": "empathy toward animals",
+    "openness": "open",
+    "conscientiousness": "conscientious"
+  },
+  "persuader": {
+    "diet": "Flexitarian (occasional meat consumption but primarily plant-based)"
+  },
+  "context": "canteen",
+  "seed": "N/A"
+}

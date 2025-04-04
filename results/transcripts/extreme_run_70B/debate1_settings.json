@@ -1,0 +1,19 @@
+{
+  "target": {
+    "education": "less well-educated",
+    "gender": "male",
+    "age": "older",
+    "urbanization": "countryside",
+    "income_level": "low",
+    "value_1": "self-enhancement",
+    "value_2": "conservation",
+    "value_3": "discouraging empathy toward animals",
+    "openness": "less open",
+    "conscientiousness": "less conscientious"
+  },
+  "persuader": {
+    "diet": "Flexitarian (occasional meat consumption but primarily plant-based)"
+  },
+  "context": "canteen",
+  "seed": "N/A"
+}
