@@ -2,6 +2,8 @@
 
 Authors: Georg Ahnert, Elena Wurth, Markus Strohmaier, and Jutta Mata
 
+Also have a look at our [preprint](https://arxiv.org/abs/2504.04872)
+
 <img src="figure1.png" width="500" />
 
 ## Abstract
